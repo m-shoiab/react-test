@@ -1,0 +1,82 @@
+.main{
+    width: 80%;
+    margin-left: 8%;
+    border:solid silver;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    margin-bottom: 4%
+}
+
+.textalign{
+    margin-left: 38px
+}
+
+.txtalignh{
+    margin-left: 68px
+}
+
+
+
+.tblset{
+    margin-left: 38px;
+    
+}
+
+.contacttxtclr{
+    color: skyblue
+}
+
+.imagesizead{
+    width : 12px;
+    padding-left: 8px;
+    padding-right: 8px
+}
+
+
+.review{
+    display: flex
+}
+
+
+.bar1{
+    width: 200px;
+    height: 10px;
+    background-color: #FFB935;
+    border: #FFB935
+}
+
+
+.bar2{
+    width: 20px;
+    height: 10px;
+    background-color: #FFB935;
+    border: #FFB935
+}
+
+
+.bar3{
+    width: 10px;
+    height: 10px;
+    background-color: #FFB935;
+    border: #FFB935
+}
+
+.imgadj{
+
+    
+    margin-left: 8%
+
+}
+
+.imgcls{
+
+    width: 92%;
+    height: 400px;
+
+}
+
+
+
+
+
